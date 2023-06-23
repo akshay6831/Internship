@@ -1,0 +1,13 @@
+body{
+background-color: aliceblue;
+}
+.label{
+    font-size: 100px;
+    font-weight: bolder;
+}
+.child{
+    text-align: center;
+}
+.register{
+    text-align: center;
+}
